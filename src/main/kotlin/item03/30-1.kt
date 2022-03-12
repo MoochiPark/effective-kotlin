@@ -1,6 +1,6 @@
 package item02
 
-import JavaClass
+import item03.JavaClass
 
 fun statedType() {
     val value: String = JavaClass().value

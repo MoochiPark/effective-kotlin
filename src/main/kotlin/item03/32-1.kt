@@ -1,6 +1,6 @@
 package item02
 
-import JavaClass
+import item03.JavaClass
 
 interface UserRepo {
     fun getUserName() = JavaClass().value
