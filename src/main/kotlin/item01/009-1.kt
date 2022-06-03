@@ -1,7 +1,7 @@
 package item01
 
 fun calculate(): Int {
-    print("계산합니다... ")
+    println("계산합니다... ")
     return 42
 }
 
@@ -10,6 +10,7 @@ val buzz
     get() = calculate()
 
 fun main() {
+    println("hi")
     println(fizz)
     println(fizz)
     println(buzz)

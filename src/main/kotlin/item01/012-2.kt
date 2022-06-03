@@ -7,4 +7,5 @@ fun main() {
     if (list is MutableList) {
         list.add(4)
     }
+
 }
